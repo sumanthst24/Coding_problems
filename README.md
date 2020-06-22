@@ -11,6 +11,7 @@ A repository that contains solution to coding problems.
 Problem |  Difficulty
 ------------ | -------------
 [Minimum Swaps](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | :fire::fire:
+[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | :fire::fire:
 [Difference Array](https://www.hackerrank.com/challenges/crush/problem) |  :fire::fire::fire:
 
 
