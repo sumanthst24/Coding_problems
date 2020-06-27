@@ -1,5 +1,5 @@
 # Coding_problems
-A repository that contains solution to coding problems.
+A repository that contains good coding problem of each concept
 
 ## Divided in Categories
 - In each category you will find some best problems in that respective domain.
