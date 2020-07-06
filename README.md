@@ -20,7 +20,7 @@ Problem |  Difficulty
 
 Problem  | Difficulty
 ------------ | ------------- 
- a| :fire::fire:
+[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)| :fire::fire:
 a|  :fire::fire::fire:
 
 #### Stacks
